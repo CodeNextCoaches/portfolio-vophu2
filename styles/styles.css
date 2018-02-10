@@ -1,1 +1,10 @@
+.jumbotron{
+  background-image: url(https://data.whicdn.com/images/152491584/original.gif);
+  background-repeat: no-repeat;
+  background-position: 50% 80%;
+  background-size: auto;
+}
 
+.fnps{
+  font-family: 'Nanum Pen Script',cursive;
+}
